@@ -25,5 +25,17 @@ namespace PrimeiraAplicacao.Controllers
             ViewData["id"] = id;
             return View();
         }
+
+        [HttpGet]
+        public IActionResult Cadastrar()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Cadastrar(Aluno aluno)
+        {
+            return Content("Ok "+ aluno.Nome);
+        }
     }
 }

@@ -31,3 +31,4 @@ C:\dotnet\PrimeiraAplicacao\obj\Debug\netcoreapp2.1\PrimeiraAplicacao.dll
 C:\dotnet\PrimeiraAplicacao\obj\Debug\netcoreapp2.1\PrimeiraAplicacao.pdb
 C:\dotnet\PrimeiraAplicacao\obj\Debug\netcoreapp2.1\PrimeiraAplicacao.csproj.CopyComplete
 C:\dotnet\PrimeiraAplicacao\obj\Debug\netcoreapp2.1\Razor\Views\Alunos\Listar.g.cshtml.cs
+C:\dotnet\PrimeiraAplicacao\obj\Debug\netcoreapp2.1\Razor\Views\Alunos\Cadastrar.g.cshtml.cs

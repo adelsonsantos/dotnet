@@ -1,0 +1,13 @@
+@model PrimeiraAplicacao.Models.Aluno;
+
+
+<div class="page-header">
+    <h1>Cadastro de Alunos</h1>
+</div>
+
+<form asp-action="Cadastrar" method="POST">
+    
+    <input type="text" asp-for="Nome" name="nome">
+    
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
