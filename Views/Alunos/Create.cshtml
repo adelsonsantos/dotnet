@@ -1,0 +1,20 @@
+@model PrimeiraAplicacao.Models.Aluno
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+      @using(Html.BeginForm())
+      {
+          <div class="form-group">
+              @Html.LabelFor(m => Model.Nome)
+              @Html.TextBoxFor(m => Model.Nome, new {@class = "form-control"})              
+          </div>
+      }
+</div>
+</body>
+</html>

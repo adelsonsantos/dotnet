@@ -8,9 +8,13 @@ namespace PrimeiraAplicacao.Controllers
         // GET
         public IActionResult Index()
         {
-            return Content("Teste com alunos");
+            return View();
         }
         
+        public IActionResult Create(Aluno aluno)
+        {
+            return View();
+        }
         
         public IActionResult Listar()
         {

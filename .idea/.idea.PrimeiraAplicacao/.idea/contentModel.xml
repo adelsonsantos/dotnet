@@ -34,6 +34,8 @@
         <e p="_ViewStart.cshtml" t="Include" />
         <e p="Alunos" t="Include">
           <e p="Cadastrar.cshtml" t="Include" />
+          <e p="Create.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
           <e p="Listar.cshtml" t="Include" />
         </e>
         <e p="Home" t="Include">
