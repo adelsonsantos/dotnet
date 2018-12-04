@@ -33,9 +33,10 @@ namespace PrimeiraAplicacao.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Cadastrar(Aluno aluno)
         {
-            return Content("Ok "+ aluno.Nome);
+            return Content($"Nome: {aluno.Nome}, Nota Final: {aluno.NotaFinal}");
         }
     }
 }
