@@ -5,6 +5,7 @@ namespace PrimeiraAplicacao.Models
 {
     public class Aluno
     {
+        [Key]
         public Guid Id { get; set; }
         public string Nome { get; set; }
         [Display(Name = "Nota Final")]

@@ -11791,30 +11791,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adelson.santos\\.nuget\\packages\\": {},
+    "C:\\Users\\adelson\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet\\PrimeiraAplicacao\\PrimeiraAplicacao.csproj",
+      "projectUniqueName": "C:\\asp\\asp\\PrimeiraAplicacao.csproj",
       "projectName": "PrimeiraAplicacao",
-      "projectPath": "C:\\dotnet\\PrimeiraAplicacao\\PrimeiraAplicacao.csproj",
-      "packagesPath": "C:\\Users\\adelson.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\dotnet\\PrimeiraAplicacao\\obj\\",
+      "projectPath": "C:\\asp\\asp\\PrimeiraAplicacao.csproj",
+      "packagesPath": "C:\\Users\\adelson\\.nuget\\packages\\",
+      "outputPath": "C:\\asp\\asp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\adelson.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\adelson\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
